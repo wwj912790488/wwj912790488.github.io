@@ -51,8 +51,8 @@ postPatterns: 'circuitBoard'
 sns:
   weibo: '//weibo.com/lovecolcol'
   juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
-  instagram: '//http://www.cnblogs.com/jay-wu/'
-  github: '//github.com/kaeyleo'
+  instagram: 'http://www.cnblogs.com/jay-wu/'
+  github: '//github.com/wwj912790488'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar

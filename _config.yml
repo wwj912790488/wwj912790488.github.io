@@ -14,7 +14,7 @@ nav:
 
 # Footer
 footer:
-  since: 2017
+  since: 2019
 
 # Author 配置博主信息
 author: '吴文杰'
@@ -41,17 +41,17 @@ social-share: true
 social-share-items: ['wechat', 'weibo', 'douban', 'twitter']
 
 # theme color 主题皮肤
-theme-color: 'pink'  # pink or default
+theme-color: 'default'  # pink or default
 
 # Post header background patterns (when the post no cover): circuitBoard, overlappingCircles, food, glamorous, ticTacToe, seaOfClouds
-postPatterns: 'seaOfClouds'
+postPatterns: 'circuitBoard'
 
 # SNS settings 配置社交网站
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
   weibo: '//weibo.com/lovecolcol'
   juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
-  instagram: '//www.instagram.com/steveliaocn'
+  instagram: '//http://www.cnblogs.com/jay-wu/'
   github: '//github.com/kaeyleo'
 
 # Tags 设置标签
